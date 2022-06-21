@@ -1,0 +1,23 @@
+.btn-group {
+    display:flex;
+    align-self: stretch;
+    
+}
+
+.list-group-item{
+    color:rgb(2, 2, 92);
+    padding: 30px;
+}
+
+.d-block{
+    width:73rem;
+    height:390px;
+}
+
+.detail{
+    line-height:35pt;
+}
+
+.btn-group{
+    padding: 5px;
+}
