@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MIOT/static/css/main.edc199be.chunk.css",
+    "main.js": "/MIOT/static/js/main.917f6fa8.chunk.js",
+    "main.js.map": "/MIOT/static/js/main.917f6fa8.chunk.js.map",
+    "runtime-main.js": "/MIOT/static/js/runtime-main.d36c5c81.js",
+    "runtime-main.js.map": "/MIOT/static/js/runtime-main.d36c5c81.js.map",
+    "static/js/2.d458fb63.chunk.js": "/MIOT/static/js/2.d458fb63.chunk.js",
+    "static/js/2.d458fb63.chunk.js.map": "/MIOT/static/js/2.d458fb63.chunk.js.map",
+    "static/js/3.a03f6919.chunk.js": "/MIOT/static/js/3.a03f6919.chunk.js",
+    "static/js/3.a03f6919.chunk.js.map": "/MIOT/static/js/3.a03f6919.chunk.js.map",
+    "index.html": "/MIOT/index.html",
+    "static/css/main.edc199be.chunk.css.map": "/MIOT/static/css/main.edc199be.chunk.css.map",
+    "static/js/2.d458fb63.chunk.js.LICENSE.txt": "/MIOT/static/js/2.d458fb63.chunk.js.LICENSE.txt",
+    "static/media/College.0788a5ad.jpg": "/MIOT/static/media/College.0788a5ad.jpg",
+    "static/media/Institute.f9522020.jpg": "/MIOT/static/media/Institute.f9522020.jpg",
+    "static/media/Logo.f9fe0701.png": "/MIOT/static/media/Logo.f9fe0701.png",
+    "static/media/Pic1.ffc5a61f.jpg": "/MIOT/static/media/Pic1.ffc5a61f.jpg",
+    "static/media/Pic2.d4b1a586.jpg": "/MIOT/static/media/Pic2.d4b1a586.jpg",
+    "static/media/Pic3.c8c8006e.jpg": "/MIOT/static/media/Pic3.c8c8006e.jpg",
+    "static/media/Pic4.32be01db.jpg": "/MIOT/static/media/Pic4.32be01db.jpg",
+    "static/media/Pic5.26a95496.jpg": "/MIOT/static/media/Pic5.26a95496.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d36c5c81.js",
+    "static/js/2.d458fb63.chunk.js",
+    "static/css/main.edc199be.chunk.css",
+    "static/js/main.917f6fa8.chunk.js"
+  ]
+}
